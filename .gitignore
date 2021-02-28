@@ -1,0 +1,5 @@
+# ignore node modules
+node_modules
+
+# ignore generated sim data
+web_public/simdata.json
